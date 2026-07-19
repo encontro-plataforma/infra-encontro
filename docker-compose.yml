@@ -1,5 +1,3 @@
-version: "3.9"
-
 # Assume que os repositórios financeiro-encontro-api e financeiro-encontro-web
 # estão clonados como pastas irmãs deste repositório (infra-encontro):
 #
